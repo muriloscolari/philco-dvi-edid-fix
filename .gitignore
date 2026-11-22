@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.orig
+*-original.bin
+.DS_Store
+*.swp
